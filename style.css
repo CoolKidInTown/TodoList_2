@@ -1,0 +1,46 @@
+body{
+    background-color: whitesmoke;
+}
+
+.col-md-5{
+  margin-top: 250px !important;
+  background-color: #fff;
+  box-shadow: 3px 3px 5px brown;
+  border-radius: 10px;
+}
+
+h1{
+    text-align: center;
+    font-weight: bolder !important;
+    margin: 20px !important;
+}
+
+input{
+    display: inline !important;
+    border: 2px solid black !important;
+    width: 85% !important;
+}
+
+button{
+    margin-left: 10px !important;
+    margin-bottom: 5px !important;
+    box-shadow: 2px 2px 2px greenyellow;
+}
+
+li{
+    list-style-type: none;
+    font-size: 20px;
+    text-align: center;
+   
+    /* making space for delete icon like add btn */
+    width: 70%; 
+    display: inline;
+
+    margin: 10px;
+}
+
+i{
+    color: crimson;
+    margin: 10px;
+    cursor: pointer;
+}
